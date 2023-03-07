@@ -1,0 +1,11 @@
+var1=input('First var')
+var2=input('Second var')
+sum=int(var1)+int(var2)
+diff=int(var1)-int(var2)
+mul=int(var1)*int(var2)
+
+print(var1)
+print(var2)
+print(sum)
+print(diff)
+print(mul)
